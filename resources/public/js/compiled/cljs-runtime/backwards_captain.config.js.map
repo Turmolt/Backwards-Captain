@@ -1,0 +1,1 @@
+{"version":3,"sources":["backwards_captain/config.cljs"],"mappings":";;AAEA,AAAKA,AACMC","names":["backwards-captain.config/debug?","js/goog.DEBUG"],"sourcesContent":["(ns backwards-captain.config)\r\n\r\n(def debug?\r\n  ^boolean goog.DEBUG)\r\n"]}

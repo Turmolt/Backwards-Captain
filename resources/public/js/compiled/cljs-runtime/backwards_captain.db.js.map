@@ -1,0 +1,1 @@
+{"version":3,"sources":["backwards_captain/db.cljs"],"mappings":";;AAEA,AAAA,AAAA,AAAA,AAAA,AAAA,AAAKA","names":["backwards-captain.db/default-db"],"sourcesContent":["(ns backwards-captain.db)\r\n\r\n(def default-db\r\n  {:active-panel :home-panel\r\n   :post nil})\r\n"]}
